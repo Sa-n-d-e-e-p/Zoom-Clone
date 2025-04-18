@@ -90,7 +90,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries, you can reach me at [sandeep@example.com](mailto:sandeep@example.com).
+For any inquiries, you can reach me at [sandeepajps@gmail.com](mailto:sandeepajps@gmail.com).
 
 ---
 Happy coding!
